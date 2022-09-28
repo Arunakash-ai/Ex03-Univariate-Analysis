@@ -28,8 +28,8 @@ Do plots like boxplots,countplot,distribution plot,histogram plot.
     
 # Program
 ```
-Developed by : M Vignesh
-Registration Number : 212220233002
+Developed by : Arunkumar R
+Registration Number : 212220233001
 ```
 ```
 import numpy as np
